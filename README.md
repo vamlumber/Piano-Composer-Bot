@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Classical Piano Composer
 
 This project allows you to train a neural network to generate midi music files that make use of a single instrument
@@ -36,3 +37,11 @@ python predict.py
 ```
 
 You can run the prediction file right away using the **weights.hdf5** file
+=======
+# Piano-Composer-Bot
+LSTM RNN
+
+To run use python lstm.py
+
+and then use predict.py to run
+>>>>>>> 1ba2228d90c8b33effb77c2fac3881e747ef6065
